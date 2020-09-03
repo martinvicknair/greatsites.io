@@ -9,5 +9,5 @@ published: true
 post_date: 2020-08-17 18:33:27
 ---
 <!-- wp:paragraph -->
-<p>This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.</p>
+<p>[contact-form-7 id="48" title="Contact form 1"]</p>
 <!-- /wp:paragraph -->
