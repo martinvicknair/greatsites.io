@@ -9,5 +9,5 @@ published: true
 post_date: 2020-08-17 18:33:27
 ---
 <!-- wp:paragraph -->
-<p>[contact-form-7 id="48" title="Contact form 1"]</p>
+<p>[contact-form-7 id="48" title="Contact Page form"]</p>
 <!-- /wp:paragraph -->
