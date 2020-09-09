@@ -39,3 +39,15 @@ post_date: 2020-08-17 18:33:27
 <!-- wp:list -->
 <ul><li><a href="http://SummerFoodRocks.org">www.SummerFoodRocks.org</a></li></ul>
 <!-- /wp:list -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Credentials and certifications</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Denver University Web Development Coding Bootcamp</li><li>Relational Database Design - LSU Continuing Ed</li><li>Certified Ethical Hacker</li><li>Network+ Certified Network Engineer</li></ul>
+<!-- /wp:list -->
