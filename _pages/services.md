@@ -1,6 +1,6 @@
 ---
 ID: 61
-post_title: Services
+post_title: 'Home &#8211; Services'
 author: GreatSites
 post_excerpt: ""
 layout: page
