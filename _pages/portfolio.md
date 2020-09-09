@@ -37,7 +37,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="http://SummerFoodRocks.org">www.SummerFoodRocks.org</a></li></ul>
+<ul><li><a href="https://SummerFoodRocks.org">www.SummerFoodRocks.org</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
