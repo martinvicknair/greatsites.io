@@ -4,7 +4,7 @@ post_title: Portfolio
 author: martin
 post_excerpt: ""
 layout: page
-permalink: https://greatsites.io/about/
+permalink: https://greatsites.io/portfolio/
 published: true
 post_date: 2020-08-17 18:33:27
 ---
