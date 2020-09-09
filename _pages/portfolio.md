@@ -9,11 +9,11 @@ published: true
 post_date: 2020-08-17 18:33:27
 ---
 <!-- wp:paragraph -->
-<p><strong>CBD American Shaman Franchisee websites</strong>:</p>
+<p><strong>CBD American Shaman Franchisee websites</strong>: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://cbdarvada.com/">American Shaman of Arvada, Colorado</a></li><li><a href="https://cbdlakewoodco.com/">American Shaman of Lakewood, Colorado</a></li><li><a href="https://cbdlittleton.com/">American Shaman of Littleton, Colorado</a></li></ul>
+<ul><li><a href="https://cbdarvada.com/">American Shaman of Arvada, Colorado</a> </li><li><a href="https://cbdlakewoodco.com/">American Shaman of Lakewood, Colorado</a> </li><li><a href="https://cbdlittleton.com/">American Shaman of Littleton, Colorado</a> </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -21,11 +21,11 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Website for Mexican artist Luis Felipe de la Torre</strong>:</p>
+<p><strong>Website for Mexican artist Luis Felipe de la Torre</strong>: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://luisfelipedelatorre.com">www.luisfelipedelatorre.com</a></li></ul>
+<ul><li><a href="https://luisfelipedelatorre.com">www.luisfelipedelatorre.com</a> </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -33,11 +33,11 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Online sitefinder application for the USDA Summer Food Service Program:</strong></p>
+<p><strong>Online sitefinder application for the USDA Summer Food Service Program:</strong> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://SummerFoodRocks.org">www.SummerFoodRocks.org</a></li></ul>
+<ul><li><a href="https://SummerFoodRocks.org">www.SummerFoodRocks.org</a> </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -49,5 +49,5 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Denver University Web Development Coding Bootcamp</li><li>Relational Database Design - LSU Continuing Ed</li><li>Certified Ethical Hacker</li><li>Network+ Certified Network Engineer</li></ul>
+<ul><li>Denver University Web Development Coding Boot Camp </li><li>Relational Database Design - LSU Continuing Ed</li><li>ECC Certified Ethical Hacker </li><li>CompTIA Network+ Certified Engineer </li></ul>
 <!-- /wp:list -->
