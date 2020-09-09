@@ -1,0 +1,17 @@
+---
+ID: 61
+post_title: Services
+author: GreatSites
+post_excerpt: ""
+layout: page
+permalink: https://greatsites.io/services/
+published: true
+post_date: 2020-09-09 20:19:14
+---
+<!-- wp:list -->
+<ul><li>Business websites from $750<ul><li>Specializing in WordPress</li><li>Domain name assistance and hosting available</li></ul></li><li>Ongoing SEO and Marketing from $300<ul><li>Monthly social media campaigns</li><li>Online promotions</li><li>Website seasonal SEO marketing and content</li><li>Web Server updates, backups, and security</li></ul></li><li>General Tech Support<ul><li>Domains, websites, email </li><li>Wireless networking </li><li>General computer maintenance</li><li>American Shaman Franchisees welcomed!</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
