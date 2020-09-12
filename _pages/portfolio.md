@@ -13,7 +13,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="https://cbdarvada.com">American Shaman of Arvada, Colorado | cbdarvada.com</a> </li><li><a href="https://cbdlakewoodco.com">American Shaman of Lakewood, Colorado | cbdlakewoodco.com</a></li><li><a href="https://cbdlakewoodco.com">American Shaman of Littleton, Colorado | cbdlittleton.com  </a></li></ul>
+<ul><li><a href="https://cbdarvada.com">American Shaman of Arvada, Colorado | cbdarvada.com</a> </li><li><a href="https://cbdlakewoodco.com">American Shaman of Lakewood, Colorado | cbdlakewoodco.com</a></li><li><a href="https://cbdlittleton.com">American Shaman of Littleton, Colorado | cbdlittleton.com  </a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
