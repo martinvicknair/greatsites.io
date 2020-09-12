@@ -45,7 +45,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>Credentials and certifications</p>
+<p><a href="https://linkedin.com/in/martinvicknair">Credentials and certifications</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
