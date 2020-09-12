@@ -9,5 +9,5 @@ published: true
 post_date: 2020-09-12 22:32:35
 ---
 <!-- wp:shortcode -->
-[catlist name="web-design"]
+[catlist name="web-design" excerpt=full thumbnail=yes]
 <!-- /wp:shortcode -->
