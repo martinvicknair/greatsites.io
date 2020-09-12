@@ -8,6 +8,6 @@ permalink: https://greatsites.io/web-design/
 published: true
 post_date: 2020-09-12 22:32:35
 ---
-<!-- wp:code -->
-<pre class="wp-block-code"><code>&#91;catlist name="web-design"]</code></pre>
-<!-- /wp:code -->
+<!-- wp:shortcode -->
+[catlist name="web-design"]
+<!-- /wp:shortcode -->
