@@ -1,6 +1,6 @@
 ---
 ID: 129
-post_title: Why do my emails go to spam! :(
+post_title: Why do my emails go to spam?! :(
 author: GreatSites
 post_excerpt: ""
 layout: post
