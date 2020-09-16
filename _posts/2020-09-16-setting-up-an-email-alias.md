@@ -5,7 +5,7 @@ author: GreatSites
 post_excerpt: ""
 layout: post
 permalink: >
-  https://greatsites.io/posts/errata/setting-up-an-email-alias/
+  https://greatsites.io/posts/email/setting-up-an-email-alias/
 published: true
 post_date: 2020-09-16 17:17:03
 ---
