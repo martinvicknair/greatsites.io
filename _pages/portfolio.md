@@ -48,8 +48,8 @@ post_date: 2020-08-17 18:33:27
 <p>GreatSites.io was founded by Martin Vicknair after a 20 year career in IT. We specialize in small business websites and affiliate marketing. Let me help drive customers into your store, and send online shoppers to your unique affiliate link.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><a href="https://linkedin.com/in/martinvicknair">Credentials and certifications:</a></p>
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-black-color has-text-color"><a href="https://linkedin.com/in/martinvicknair">Credentials and certifications:</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
