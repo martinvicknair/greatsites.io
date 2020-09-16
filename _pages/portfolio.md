@@ -45,7 +45,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><a href="https://linkedin.com/company/greatsites">GreatSites.io</a> was founded by <a href="https://linkedin.com/in/martinvicknair">Martin Vicknair</a> after a 20 year career in IT. We specialize in small business websites and affiliate marketing. Let me help drive customers into your store, and send online shoppers to your unique affiliate link.</p>
+<p class="has-black-color has-text-color"><a href="https://linkedin.com/company/greatsites">GreatSites.io</a> was founded by <a href="https://linkedin.com/in/martinvicknair">Martin Vicknair</a> in 2020. We specialize in small business websites and affiliate marketing. Let me help drive customers into your store, and send online shoppers to your unique affiliate link.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
