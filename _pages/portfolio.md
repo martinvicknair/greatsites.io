@@ -8,8 +8,8 @@ permalink: https://greatsites.io/portfolio/
 published: true
 post_date: 2020-08-17 18:33:27
 ---
-<!-- wp:paragraph -->
-<p><strong>CBD American Shaman Franchisee websites</strong>: </p>
+<!-- wp:paragraph {"textColor":"black"} -->
+<p class="has-black-color has-text-color"><a href="http://american-shaman-franchise-support"><strong>CBD American Shaman Franchisee websites</strong>:</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
