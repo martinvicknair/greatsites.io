@@ -9,7 +9,7 @@ published: true
 post_date: 2020-08-17 18:33:27
 ---
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><a href="http://american-shaman-franchise-support"><strong>CBD American Shaman Franchisee websites</strong>:</a> </p>
+<p class="has-black-color has-text-color"><a href="/american-shaman-franchise-support"><strong>CBD American Shaman Franchisee websites</strong>:</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
