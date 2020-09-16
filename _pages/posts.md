@@ -9,5 +9,5 @@ published: true
 post_date: 2020-08-17 18:33:27
 ---
 <!-- wp:paragraph -->
-<p>A listing of all the <span style="text-decoration: underline;">Articles</span> posted to the website. </p>
+<p>A collection of all the <span style="text-decoration: underline;">Articles</span> posted to the website. </p>
 <!-- /wp:paragraph -->
