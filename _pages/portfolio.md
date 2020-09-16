@@ -45,9 +45,5 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><a href="https://linkedin.com/in/martinvicknair">Credentials and certifications:</a></p>
+<p></p>
 <!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Denver University Web Development Coding Boot Camp </li><li>Relational Database Design - LSU Continuing Ed</li><li>ECC Certified Ethical Hacker </li><li>CompTIA Network+ Certified Engineer </li></ul>
-<!-- /wp:list -->
