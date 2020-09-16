@@ -9,5 +9,5 @@ published: true
 post_date: 2020-08-17 18:33:27
 ---
 <!-- wp:paragraph -->
-<p>A collection of all the Articles posted to the website. </p>
+<p>A collection of all the posts/articles on the website. </p>
 <!-- /wp:paragraph -->
