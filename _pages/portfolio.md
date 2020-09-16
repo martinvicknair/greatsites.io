@@ -53,5 +53,5 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Denver University Web Development/Coding Boot Camp</li><li>Relational Database Design – LSU Professional Development</li><li>CompTIA Certified Network+ Engineer</li><li>ECC Certified Ethical Hacker</li></ul>
+<ul><li>Denver University Web Development/Coding Boot Camp</li><li>Relational Database Design – LSU Professional Development</li><li>CompTIA Network+ Certified Engineer</li><li>ECC Certified Ethical Hacker</li></ul>
 <!-- /wp:list -->
