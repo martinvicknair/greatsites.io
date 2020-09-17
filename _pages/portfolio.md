@@ -13,7 +13,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Win at the "CBD Near Me" web search! These sites are built on WordPress, and incorporate Google and Yelp reviews, Google Maps, Facebook, and properly deep-linked affiliate referrals for each product. Capture email addresses with online forms and offers. Drive local customers into your physical store, and online shoppers will appreciate the a smooth transition to the American Shaman online store.</p>
+<p>Win at the "CBD Near Me" web search! These sites are built on WordPress, and incorporate Google and Yelp reviews, Google Maps, Facebook, and properly deep-linked affiliate referrals for each product. Capture email addresses with online forms and offers. Drive local customers into your physical store, and online shoppers will appreciate the a smooth transition to the American Shaman online store. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -49,13 +49,13 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"textColor":"black"} -->
-<p class="has-black-color has-text-color"><a href="https://linkedin.com/company/greatsites">GreatSites.io</a> was founded by <a href="https://linkedin.com/in/martinvicknair">Martin Vicknair</a> in 2020. We specialize in small business websites and affiliate marketing. Let me help drive customers into your store, and send online shoppers to your unique affiliate link.</p>
+<p class="has-black-color has-text-color"><a href="https://linkedin.com/company/greatsites">GreatSites.io</a> was founded by <a href="https://linkedin.com/in/martinvicknair">Martin Vicknair</a> in 2020. We specialize in small business websites and affiliate marketing. Let me help drive customers into your store, and send online shoppers to your unique affiliate link. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Credentials and certifications:</p>
+<p>Credentials and certifications: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Denver University Web Development/Coding Boot Camp</li><li>Relational Database Design – LSU Professional Development</li><li>CompTIA Network+ Certified Engineer</li><li>ECC Certified Ethical Hacker</li></ul>
+<ul><li>Denver University Web Development/Coding Boot Camp </li><li>Relational Database Design – LSU Professional Development </li><li>CompTIA Network+ Certified Engineer </li><li>ECC Certified Ethical Hacker </li></ul>
 <!-- /wp:list -->
