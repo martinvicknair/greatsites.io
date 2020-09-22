@@ -53,7 +53,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://linkedin.com/company/greatsites">Credentials and certifications: </a></p>
+<p>Credentials and certifications: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
