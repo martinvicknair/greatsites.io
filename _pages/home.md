@@ -29,9 +29,9 @@ post_date: 2020-09-09 20:19:14
 <ul><li>WordPress sites from $600</li><li>Domain name &amp; email</li><li>Win at the "Near Me" search</li></ul>
 <!-- /wp:list -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
@@ -47,7 +47,11 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:list -->
 <ul><li>SEO Marketing and Content</li><li>Social Media postings</li><li>American Shaman Franchisees welcome!</li></ul>
-<!-- /wp:list --></div>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
@@ -63,7 +67,11 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:list -->
 <ul><li>Dedicated IP and resources</li><li>Free SSL Certificate</li><li>From $25 monthly</li></ul>
-<!-- /wp:list --></div>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div></div>
 <!-- /wp:group -->
