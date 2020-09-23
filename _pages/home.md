@@ -77,6 +77,18 @@ post_date: 2020-09-09 20:19:14
 <div class="wp-block-advgb-column advgb-column advgb-is-one-third-tablet advgb-is-full-mobile" id="advgb-col-f90dfe6d-e562-4672-9287-7a200f2e0afa"><div class="advgb-column-inner" style="border-style:none;border-width:5px;border-radius:15px"><!-- wp:cover {"overlayColor":"cyan-bluish-gray"} -->
 <div class="wp-block-cover has-cyan-bluish-gray-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">Web Design</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Small business websites</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>WordPress sites from $600</li><li>Domain name &amp; email</li><li>Win at the "Near Me" search</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover --></div></div>
 <!-- /wp:advgb/column -->
