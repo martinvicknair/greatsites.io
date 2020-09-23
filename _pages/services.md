@@ -36,6 +36,10 @@ post_date: 2020-09-16 17:17:54
 <h2><span style="text-decoration: underline;">Web Hosting from $25 monthl</span>y </h2>
 <!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+<p>2 GB Memory   -   25 GB SSD   -   2 TB Traffic Monthly</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":3} -->
 <h3><strong>Private VPSes. No shared hosting.</strong> </h3>
 <!-- /wp:heading -->
@@ -99,3 +103,11 @@ post_date: 2020-09-16 17:17:54
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Sign up for our managed VPS Web Hosting <a href="https://greatsites.hostlaunchcdn.com/">here</a>: <a href="https://greatsites.hostlaunchcdn.com/">https://greatsites.hostlaunchcdn.com/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you would rather manage your own server, we recommend <a href="https://m.do.co/c/a909a04f3d01" rel="sponsored nofollow">DigitalOcean</a>. <br>Get a $100 credit for your first 60 days of services. Droplets start at $5 per month.<br><a href="https://m.do.co/c/a909a04f3d01" rel="sponsored nofollow">https://m.do.co/c/a909a04f3d01</a></p>
+<!-- /wp:paragraph -->
