@@ -37,7 +37,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://greatsites.hostlaunchcdn.com/">Sign up here for Managed VPS Hosting by GreatSites.io</a></p>
+<p><a href="https://greatsites.hostlaunchcdn.com/">Sign up<span style="text-decoration: underline;"> here</span> for Managed VPS Hosting by GreatSites.io</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
