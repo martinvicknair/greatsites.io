@@ -53,11 +53,11 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
-<h3><strong>Free SSL</strong> </h3>
+<h3><strong>Automated, Free SSL</strong> </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>With advanced Let's Encrypt integration, you get free, automated SSL certificates. </p>
+<p>The most reliable Let's Encrypt integration anywhere. SSL that just works. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -110,4 +110,8 @@ post_date: 2020-09-16 17:17:54
 
 <!-- wp:paragraph -->
 <p>If you would rather manage your own servers, we recommend <a rel="sponsored nofollow" href="https://m.do.co/c/a909a04f3d01">DigitalOcean</a>. <br><a href="https://m.do.co/c/a909a04f3d01">Get a $100 credit</a> for your first 60 days of services. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cloud hosting made easy with <a href="https://serverpilot.io/a/97d64f89192c" rel="sponsored nofollow">ServerPilot.io</a> Run your sites on a modern platform that grows with you. <a href="https://serverpilot.io/a/97d64f89192c" rel="sponsored nofollow">Get $10 in credits</a> for new accounts.</p>
 <!-- /wp:paragraph -->
