@@ -26,12 +26,16 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>WordPress sites from $600</li><li>Domain name &amp; email</li><li>Win at the "Near Me" search</li></ul>
+<ul><li>WordPress our specialty </li><li>Win at the "Near Me" search </li><li>Domain name &amp; email </li><li>Sites from $600 </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
-<!-- /wp:separator --></div>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
@@ -46,7 +50,7 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>SEO Marketing and Content</li><li>Social Media postings</li><li>American Shaman Franchisees welcome!</li></ul>
+<ul><li>SEO Marketing and Content </li><li>Social Media postings </li><li>Website updates and edits</li><li>Starts at $250 monthly </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -66,7 +70,7 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Dedicated IP and resources</li><li>Free SSL Certificate</li><li>From $25 monthly</li></ul>
+<ul><li>Private VPS, no shared hosting </li><li>Free SSL Certificate </li><li>One-click WordPress installs </li><li>From $25 monthly </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
