@@ -80,7 +80,7 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:advgb/button -->
 
 <!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Small business websites</p>
+<p class="has-text-align-center has-medium-font-size">Small Business Websites</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
