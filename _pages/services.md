@@ -49,7 +49,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>No shared hosting </li><li>Dedicated IP and server resources </li><li>2 GB Memory - 25 GB SSD - 2 TB Traffic Monthly (Basic Server)</li></ul>
+<ul><li>No shared hosting </li><li>Dedicated IP and server resources </li><li>1 vCPU   -   2 GB Memory - 25 GB SSD - 2 TB Traffic Monthly (Basic Server)</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
