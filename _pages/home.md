@@ -91,16 +91,16 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"} -->
-<div class="wp-block-cover has-background-dim has-background-gradient" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)","className":"home-block"} -->
+<div class="wp-block-cover has-background-dim has-background-gradient home-block" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">Affiliate Support</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"} -->
-<div class="wp-block-cover has-background-dim has-background-gradient" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)","className":"home-block"} -->
+<div class="wp-block-cover has-background-dim has-background-gradient home-block" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">VPS Hosting</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover --></div>
