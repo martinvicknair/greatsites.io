@@ -37,6 +37,10 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+<p><a href="https://greatsites.hostlaunchcdn.com/">Sign up here</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>2 GB Memory   -   25 GB SSD   -   2 TB Traffic Monthly</p>
 <!-- /wp:paragraph -->
 
