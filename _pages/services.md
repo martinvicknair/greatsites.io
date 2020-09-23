@@ -33,16 +33,68 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2>Web Hosting</h2>
+<h2>Web Hosting from $25 monthly </h2>
 <!-- /wp:heading -->
 
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
+<!-- wp:heading {"level":3} -->
+<h3><strong>Private VPSes. No shared hosting.</strong> </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Each customer's sites are on their own servers. You can have multiple servers and multiple sites per server. </p>
+<!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li></li></ul>
+<ul><li>No shared hosting </li><li>Dedicated IP and server resources </li></ul>
 <!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>Free SSL</strong> </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>With advanced Let's Encrypt integration, you get free, automated SSL certificates. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>One-Click WordPress</strong> </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A one-click WordPress installer will have you running WordPress in seconds. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Application Stack </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Automatically configures a fast and reliable stack for hosting any PHP + MySQL apps as well as static websites. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Nginx</li><li>Apache + .htaccess</li><li>Multiple PHP Versions</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Security</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We use ServerPilot to keep your server's software up to date and automatically configure your server's software to be secure. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Automated updates </li><li>Site isolation </li><li>Firewall </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Recurring Billing </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pay the prorated monthly fee upfront for new servers, and then you are billed automatically at the start of each month. </p>
+<!-- /wp:paragraph -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
