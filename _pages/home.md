@@ -75,11 +75,11 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
+<!-- wp:columns {"className":"home-block"} -->
+<div class="wp-block-columns home-block"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"} -->
 <div class="wp-block-cover has-background-dim has-background-gradient" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"}},"textColor":"black"} -->
+<div class="wp-block-buttons"><!-- wp:button {"borderRadius":"","style":{"color":{"gradient":"radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"}},"textColor":"black"} -->
 <div class="wp-block-button"><a class="wp-block-button__link has-black-color has-text-color has-background" style="background:radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"><span class="has-inline-color has-black-color">Web Design</span></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
