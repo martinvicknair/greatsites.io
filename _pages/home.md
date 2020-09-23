@@ -74,8 +74,8 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:advgb/columns {"columns":3,"columnsLayout":"13-13-13","gutter":10,"vAlign":"full","colId":"advgb-cols-0859924d-b891-479c-b846-8ba05030aac2","changed":true,"align":"full","className":"home-block"} -->
 <div class="wp-block-advgb-columns alignfull advgb-columns-wrapper home-block" id="advgb-cols-0859924d-b891-479c-b846-8ba05030aac2"><div class="advgb-columns-container"><div class="advgb-columns advgb-columns-row advgb-is-mobile columns-valign-full advgb-columns-3 layout-13-13-13 mbl-layout-stacked gutter-10 vgutter-10"><!-- wp:advgb/column {"width":0,"columnClasses":"advgb-is-one-third-tablet advgb-is-full-mobile","colId":"advgb-col-532d8a69-8578-48e5-a7d2-c142df4373f7","changed":true} -->
-<div class="wp-block-advgb-column advgb-column advgb-is-one-third-tablet advgb-is-full-mobile" id="advgb-col-532d8a69-8578-48e5-a7d2-c142df4373f7"><div class="advgb-column-inner" style="border-style:none;border-width:1px"><!-- wp:cover {"overlayColor":"cyan-bluish-gray"} -->
-<div class="wp-block-cover has-cyan-bluish-gray-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-advgb-column advgb-column advgb-is-one-third-tablet advgb-is-full-mobile" id="advgb-col-532d8a69-8578-48e5-a7d2-c142df4373f7"><div class="advgb-column-inner" style="border-style:none;border-width:1px"><!-- wp:cover {"overlayColor":"cyan-bluish-gray","className":"home-block"} -->
+<div class="wp-block-cover has-cyan-bluish-gray-background-color has-background-dim home-block"><div class="wp-block-cover__inner-container"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Web Design</a></div>
 <!-- /wp:button --></div>
@@ -100,8 +100,8 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:advgb/column -->
 
 <!-- wp:advgb/column {"width":0,"columnClasses":"advgb-is-one-third-tablet advgb-is-full-mobile","colId":"advgb-col-c1ea0449-b931-49ea-beaf-d3f85c119190","changed":true} -->
-<div class="wp-block-advgb-column advgb-column advgb-is-one-third-tablet advgb-is-full-mobile" id="advgb-col-c1ea0449-b931-49ea-beaf-d3f85c119190"><div class="advgb-column-inner" style="border-style:none;border-width:1px"><!-- wp:cover {"overlayColor":"cyan-bluish-gray"} -->
-<div class="wp-block-cover has-cyan-bluish-gray-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-advgb-column advgb-column advgb-is-one-third-tablet advgb-is-full-mobile" id="advgb-col-c1ea0449-b931-49ea-beaf-d3f85c119190"><div class="advgb-column-inner" style="border-style:none;border-width:1px"><!-- wp:cover {"overlayColor":"cyan-bluish-gray","className":"home-block"} -->
+<div class="wp-block-cover has-cyan-bluish-gray-background-color has-background-dim home-block"><div class="wp-block-cover__inner-container"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Marketing</a></div>
 <!-- /wp:button --></div>
