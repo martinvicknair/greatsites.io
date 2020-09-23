@@ -22,7 +22,7 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:buttons -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Small Business websites</p>
+<p class="has-text-align-center"><strong>Small Business Websites</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -42,7 +42,7 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:buttons -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Affiliate Support</p>
+<p class="has-text-align-center"><strong>Affiliate Support</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -62,7 +62,7 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:buttons -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">VPS Hosting</p>
+<p class="has-text-align-center"><strong>VPS Hosting</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -72,38 +72,6 @@ post_date: 2020-09-09 20:19:14
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)","className":"home-block"} -->
-<div class="wp-block-cover has-background-dim has-background-gradient home-block" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"borderRadius":"","style":{"color":{"gradient":"radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"}},"textColor":"black"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-black-color has-text-color has-background" style="background:radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"><span class="has-inline-color has-black-color">Web Design</span></a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Small Business Websites</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)","className":"home-block"} -->
-<div class="wp-block-cover has-background-dim has-background-gradient home-block" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Affiliate Support</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)","className":"home-block"} -->
-<div class="wp-block-cover has-background-dim has-background-gradient home-block" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">VPS Hosting</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div></div>
 <!-- /wp:group -->
