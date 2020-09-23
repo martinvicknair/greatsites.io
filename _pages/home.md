@@ -1,6 +1,6 @@
 ---
 ID: 61
-post_title: Home
+post_title: Front
 author: GreatSites
 post_excerpt: ""
 layout: page
