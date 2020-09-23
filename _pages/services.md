@@ -65,7 +65,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A one-click WordPress installer will have you running WordPress in seconds. </p>
+<p>A one-click WordPress installer that will have you running WordPress in seconds. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
