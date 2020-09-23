@@ -109,5 +109,5 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you would rather manage your own server, we recommend <a href="https://m.do.co/c/a909a04f3d01" rel="sponsored nofollow">DigitalOcean</a>. <br><a href="https://m.do.co/c/a909a04f3d01">Get a $100 credit</a> for your first 60 days of services. Droplets start at $5 per month. </p>
+<p>If you would rather manage your own servers, we recommend <a href="https://m.do.co/c/a909a04f3d01" rel="sponsored nofollow">DigitalOcean</a>. <br><a href="https://m.do.co/c/a909a04f3d01">Get a $100 credit</a> for your first 60 days of services. Droplets start at $5 per month. </p>
 <!-- /wp:paragraph -->
