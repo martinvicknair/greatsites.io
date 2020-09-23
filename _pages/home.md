@@ -13,9 +13,9 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"verticalAlignment":"center","align":"wide","className":"home-block","textColor":"black","style":{"color":{"gradient":"radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"}}} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center home-block has-black-color has-text-color has-background" style="background:radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"><!-- wp:column {"verticalAlignment":"center","className":"home-block"} -->
-<div class="wp-block-column is-vertically-aligned-center home-block"><!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"verticalAlignment":null,"align":"wide","className":"home-block","textColor":"black","style":{"color":{"gradient":"radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"}}} -->
+<div class="wp-block-columns alignwide home-block has-black-color has-text-color has-background" style="background:radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"><!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
+<div class="wp-block-column is-vertically-aligned-top home-block"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Web Design</a></div>
 <!-- /wp:button --></div>
@@ -34,8 +34,8 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","className":"home-block"} -->
-<div class="wp-block-column is-vertically-aligned-center home-block"><!-- wp:buttons {"align":"center"} -->
+<!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
+<div class="wp-block-column is-vertically-aligned-top home-block"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Marketing</a></div>
 <!-- /wp:button --></div>
@@ -50,8 +50,8 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:list --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","className":"home-block"} -->
-<div class="wp-block-column is-vertically-aligned-center home-block"><!-- wp:buttons {"align":"center"} -->
+<!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
+<div class="wp-block-column is-vertically-aligned-top home-block"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Web Hosting</a></div>
 <!-- /wp:button --></div>
