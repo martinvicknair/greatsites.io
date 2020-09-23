@@ -50,8 +50,8 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:list --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
+<!-- wp:column {"className":"home-block"} -->
+<div class="wp-block-column home-block"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Web Hosting</a></div>
 <!-- /wp:button --></div>
