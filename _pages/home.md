@@ -15,3 +15,49 @@ post_date: 2020-09-09 20:19:14
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
+
+<!-- wp:cover {"overlayColor":"pale-cyan-blue","contentPosition":"center center"} -->
+<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim is-position-center-center"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">Website design &amp; development </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Specializing in small business websites </li><li>From $600</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:cover {"overlayColor":"pale-cyan-blue","contentPosition":"center center"} -->
+<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim is-position-center-center"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">Web hosting from $25 monthly </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>VPS, with dedicated IP </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Shared CPU1 vCPU2 GB<br>25 GB2 TB</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>managed WordPress hosting </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul><li>free SSL certificate </li><li>Assistance with Domain names and email </li></ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:cover {"overlayColor":"pale-cyan-blue"} -->
+<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">SEO and Marketing Campaigns </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Local SEO- win at the "Near Me" search and drive customers into your store</li><li>Affiliate Marketing- give online customers a great experience for more sales</li><li>Monthly and seasonal campaigns</li><li>Social media postings- Facebook, Twitter, Instagram, LinkedIn</li><li>American Shaman Franchisees welcomed!</li><li>Monthly services from $250</li></ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:cover -->
