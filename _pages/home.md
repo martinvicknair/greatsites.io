@@ -34,6 +34,22 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
+<!-- wp:column {"className":"home-block"} -->
+<div class="wp-block-column home-block"><!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Marketing</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Affiliate Support</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>SEO Marketing and Content</li><li>Social Media postings</li><li>American Shaman Franchisees welcome!</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
@@ -47,22 +63,6 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:list -->
 <ul><li>Dedicated IP and resources</li><li>Free SSL Certificate</li><li>From $25 monthly</li></ul>
-<!-- /wp:list --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Marketing</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Affiliate Support</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>SEO Marketing and Content</li><li>Social Media postings</li><li>American Shaman Franchisees welcome!</li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
