@@ -21,6 +21,14 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Small Business websites</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>WordPress sites from $600</li><li>Domain name &amp; email</li><li>Win at the "Near Me" search</li></ul>
+<!-- /wp:list -->
+
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator --></div>
@@ -64,6 +72,32 @@ post_date: 2020-09-09 20:19:14
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"} -->
+<div class="wp-block-cover has-background-dim has-background-gradient" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">Small Business Websites</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"} -->
+<div class="wp-block-cover has-background-dim has-background-gradient" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">Affiliate Support</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"customGradient":"radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"} -->
+<div class="wp-block-cover has-background-dim has-background-gradient" style="background:radial-gradient(rgb(255,206,236) 0%,rgb(152,150,240) 100%)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">VPS Hosting</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div></div>
 <!-- /wp:group -->
