@@ -36,15 +36,11 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>VPS, with dedicated IP </li></ul>
+<ul><li>Virtual Private Server, with dedicated IP </li><li>1 vCPU, 2 GB Ram, 25 GB SSD, 2 TB Transfer</li></ul>
 <!-- /wp:list -->
 
-<!-- wp:paragraph -->
-<p>Shared CPU1 vCPU2 GB<br>25 GB2 TB</p>
-<!-- /wp:paragraph -->
-
 <!-- wp:list -->
-<ul><li>managed WordPress hosting </li></ul>
+<ul><li>managed WordPress hosting or Ubuntu</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:list -->
