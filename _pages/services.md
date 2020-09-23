@@ -109,7 +109,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>If you would rather manage your own servers, we recommend <a rel="sponsored nofollow" href="https://m.do.co/c/a909a04f3d01">DigitalOcean</a>. <br><a href="https://m.do.co/c/a909a04f3d01">Get a $100 credit</a> for your first 60 days of services. </p>
+<p>If you would rather manage your own servers, we recommend <a rel="sponsored nofollow" href="https://m.do.co/c/a909a04f3d01">DigitalOcean</a>. <br><a href="https://m.do.co/c/a909a04f3d01">Get started with a $100, 60-day credit</a> for new users. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
