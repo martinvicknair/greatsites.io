@@ -83,16 +83,16 @@ post_date: 2020-09-09 20:19:14
 <p class="has-text-align-center">Small business websites</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>WordPress sites from $600</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">WordPress sites from $600</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Domain name &amp; email</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Domain name &amp; email</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Win at the "Near Me" search</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Win at the "Near Me" search</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
