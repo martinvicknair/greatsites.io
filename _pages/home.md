@@ -36,8 +36,8 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
 <div class="wp-block-column is-vertically-aligned-top home-block"><!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Marketing</a></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":15,"style":{"color":{"gradient":"radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"}},"textColor":"black","className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-text-color has-background" style="border-radius:15px;background:radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)">Marketing</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -56,8 +56,8 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
 <div class="wp-block-column is-vertically-aligned-top home-block"><!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Web Hosting</a></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":15,"style":{"color":{"gradient":"radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"}},"textColor":"black","className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-text-color has-background" style="border-radius:15px;background:radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)">Web Hosting</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
