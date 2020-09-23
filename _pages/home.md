@@ -16,8 +16,8 @@ post_date: 2020-09-09 20:19:14
 <div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide","className":"home-block","textColor":"black","style":{"color":{"gradient":"radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"}}} -->
 <div class="wp-block-columns alignwide home-block has-black-color has-text-color has-background" style="background:radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"><!-- wp:column {"verticalAlignment":"top","className":"home-block"} -->
 <div class="wp-block-column is-vertically-aligned-top home-block"><!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Web Design</a></div>
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":15,"style":{"color":{"gradient":"radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)"}},"textColor":"black","className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-black-color has-text-color has-background" style="border-radius:15px;background:radial-gradient(rgb(122,220,180) 0%,rgb(0,208,130) 100%)">Web Design</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
