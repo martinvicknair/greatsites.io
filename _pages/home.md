@@ -72,8 +72,8 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:group -->
 
-<!-- wp:advgb/columns {"columns":3,"columnsLayout":"13-13-13","colId":"advgb-cols-8e62ac05-82c7-4fc9-8e4e-f5943154183b","changed":true,"align":"full"} -->
-<div class="wp-block-advgb-columns alignfull advgb-columns-wrapper" id="advgb-cols-8e62ac05-82c7-4fc9-8e4e-f5943154183b"><div class="advgb-columns-container"><div class="advgb-columns advgb-columns-row advgb-is-mobile advgb-columns-3 layout-13-13-13 mbl-layout-stacked vgutter-10"><!-- wp:advgb/column {"width":0,"columnClasses":"advgb-is-one-third-tablet advgb-is-full-mobile","colId":"advgb-col-f90dfe6d-e562-4672-9287-7a200f2e0afa","borderWidth":5,"borderRadius":15,"changed":true} -->
+<!-- wp:advgb/columns {"columns":3,"columnsLayout":"13-13-13","gutter":10,"colId":"advgb-cols-8e62ac05-82c7-4fc9-8e4e-f5943154183b","changed":true,"align":"full"} -->
+<div class="wp-block-advgb-columns alignfull advgb-columns-wrapper" id="advgb-cols-8e62ac05-82c7-4fc9-8e4e-f5943154183b"><div class="advgb-columns-container"><div class="advgb-columns advgb-columns-row advgb-is-mobile advgb-columns-3 layout-13-13-13 mbl-layout-stacked gutter-10 vgutter-10"><!-- wp:advgb/column {"width":0,"columnClasses":"advgb-is-one-third-tablet advgb-is-full-mobile","colId":"advgb-col-f90dfe6d-e562-4672-9287-7a200f2e0afa","borderWidth":5,"borderRadius":15,"changed":true} -->
 <div class="wp-block-advgb-column advgb-column advgb-is-one-third-tablet advgb-is-full-mobile" id="advgb-col-f90dfe6d-e562-4672-9287-7a200f2e0afa"><div class="advgb-column-inner" style="border-style:none;border-width:5px;border-radius:15px"><!-- wp:cover {"overlayColor":"cyan-bluish-gray"} -->
 <div class="wp-block-cover has-cyan-bluish-gray-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">Web Design</p>
