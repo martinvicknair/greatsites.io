@@ -8,40 +8,22 @@ permalink: https://greatsites.io/
 published: true
 post_date: 2020-09-09 20:19:14
 ---
-<!-- wp:cover {"overlayColor":"pale-cyan-blue","minHeight":222,"minHeightUnit":"px","contentPosition":"center center"} -->
-<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim is-position-center-center" style="min-height:222px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"overlayColor":"pale-cyan-blue"} -->
+<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">Website design &amp; development </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul><li>Specializing in small business websites </li><li>From $600</li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"></div>
+<!-- /wp:list --></div></div>
+<!-- /wp:cover --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
-
-<!-- wp:cover {"overlayColor":"pale-cyan-blue","minHeight":322,"minHeightUnit":"px","contentPosition":"center center"} -->
-<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim is-position-center-center" style="min-height:322px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<div class="wp-block-column"><!-- wp:cover {"overlayColor":"pale-cyan-blue"} -->
+<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">Web hosting from $25 monthly </p>
 <!-- /wp:paragraph -->
 
@@ -55,30 +37,30 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:list -->
 <ul><li>free SSL certificate </li><li>Assistance with Domain names and email </li></ul>
-<!-- /wp:list -->
+<!-- /wp:list --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
-
-<!-- wp:cover {"overlayColor":"pale-cyan-blue","minHeight":309,"minHeightUnit":"px"} -->
-<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim" style="min-height:309px"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:cover {"overlayColor":"pale-cyan-blue"} -->
+<div class="wp-block-cover has-pale-cyan-blue-background-color has-background-dim"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">SEO and Marketing Campaigns </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul><li>Local SEO- win at the "Near Me" search and drive customers into your store</li><li>Affiliate Marketing- give online customers a great experience for more sales</li><li>Monthly and seasonal campaigns</li><li>Social media postings- Facebook, Twitter, Instagram, LinkedIn</li><li>American Shaman Franchisees welcomed!</li><li>Monthly services from $250 </li></ul>
-<!-- /wp:list -->
+<!-- /wp:list --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
