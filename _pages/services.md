@@ -41,7 +41,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3><strong>Private VPSes. No shared hosting.</strong> </h3>
+<h3>Private VPSes. No shared hosting. </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -53,7 +53,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
-<h3><strong>Automated, Free SSL</strong> </h3>
+<h3>Automated, Free SSL </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -61,7 +61,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3><strong>One-Click WordPress</strong> </h3>
+<h3>One-Click WordPress </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
