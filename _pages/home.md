@@ -13,8 +13,8 @@ post_date: 2020-09-09 20:19:14
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"align":"full","textColor":"black","style":{"color":{"gradient":"radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"}}} -->
+<div class="wp-block-columns alignfull has-black-color has-text-color has-background" style="background:radial-gradient(rgb(238,238,238) 0%,rgb(169,184,195) 100%)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
 <div class="wp-block-buttons aligncenter"><!-- wp:button {"borderRadius":50,"style":{"color":{"text":"#ba0c49"}},"className":"is-style-outline"} -->
 <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color" style="border-radius:50px;color:#ba0c49">Web Design</a></div>
@@ -27,7 +27,11 @@ post_date: 2020-09-09 20:19:14
 
 <!-- wp:list -->
 <ul><li>WordPress sites from $600</li><li>Domain name &amp; email</li><li>Win at the "Near Me" search</li></ul>
-<!-- /wp:list --></div>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
@@ -61,7 +65,11 @@ post_date: 2020-09-09 20:19:14
 <ul><li>SEO Marketing and Content</li><li>Social Media postings</li><li>American Shaman Franchisees welcome!</li></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->
