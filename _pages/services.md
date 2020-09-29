@@ -8,10 +8,6 @@ permalink: https://greatsites.io/services/
 published: true
 post_date: 2020-09-16 17:17:54
 ---
-<!-- wp:list -->
-<ul id="block-40adea20-5e72-452f-b6ca-739bf83942e5"><li>Business websites from $750!<ul><li>Specializing in WordPress</li><li>Domain name assistance and hosting available</li></ul></li><li>Ongoing SEO and Marketing from $300<ul><li>Website seasonal SEO marketing and content</li><li>Online promotions</li><li>Monthly social media campaigns</li></ul></li><li>Franchisee &amp; Affiliate Tech Support<ul><li>Domains, websites, email</li><li>Wireless networking</li><li>Web Server security, backups, and updates</li><li>General computer maintenance</li><li>American Shaman Franchisees welcomed!</li></ul></li></ul>
-<!-- /wp:list -->
-
 <!-- wp:separator -->
 <hr class="wp-block-separator" id="webdesign"/>
 <!-- /wp:separator -->
@@ -19,6 +15,14 @@ post_date: 2020-09-16 17:17:54
 <!-- wp:heading -->
 <h2>Web Design</h2>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Business websites from $750!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Specializing in WordPress</li><li>Domain name assistance and hosting available</li></ul>
+<!-- /wp:list -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator" id="marketing"/>
@@ -28,6 +32,10 @@ post_date: 2020-09-16 17:17:54
 <h2>Affiliate Marketing</h2>
 <!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:separator -->
 <hr class="wp-block-separator" id="socialcontent"/>
 <!-- /wp:separator -->
@@ -36,8 +44,16 @@ post_date: 2020-09-16 17:17:54
 <h2 id="socialmedia">Social Media Updates</h2>
 <!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+<p>Ongoing SEO and Marketing from $300</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Website seasonal SEO marketing and content</li><li>Online promotions</li><li>Monthly social media campaigns</li></ul>
+<!-- /wp:list -->
+
 <!-- wp:separator -->
-<hr class="wp-block-separator"/>
+<hr class="wp-block-separator" id="webhosting"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
