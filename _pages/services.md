@@ -37,7 +37,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator" id="socialcontent"/>
+<hr class="wp-block-separator" id="socialmedia"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
