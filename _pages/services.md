@@ -9,7 +9,7 @@ published: true
 post_date: 2020-09-16 17:17:54
 ---
 <!-- wp:list -->
-<ul id="block-40adea20-5e72-452f-b6ca-739bf83942e5"><li>Business websites from $600!<ul><li>Specializing in WordPress</li><li>Domain name assistance and hosting available</li></ul></li><li>Ongoing SEO and Marketing from $250<ul><li>Website seasonal SEO marketing and content</li><li>Online promotions</li><li>Monthly social media campaigns</li></ul></li><li>Franchisee &amp; Affiliate Tech Support<ul><li>Domains, websites, email</li><li>Wireless networking</li><li>Web Server security, backups, and updates</li><li>General computer maintenance</li><li>American Shaman Franchisees welcomed!</li></ul></li></ul>
+<ul id="block-40adea20-5e72-452f-b6ca-739bf83942e5"><li>Business websites from $750!<ul><li>Specializing in WordPress</li><li>Domain name assistance and hosting available</li></ul></li><li>Ongoing SEO and Marketing from $300<ul><li>Website seasonal SEO marketing and content</li><li>Online promotions</li><li>Monthly social media campaigns</li></ul></li><li>Franchisee &amp; Affiliate Tech Support<ul><li>Domains, websites, email</li><li>Wireless networking</li><li>Web Server security, backups, and updates</li><li>General computer maintenance</li><li>American Shaman Franchisees welcomed!</li></ul></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -49,7 +49,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><span style="font-size: 0.875rem;">Dedicated IP and server resources </span></li><li>1 vCPU -- 2 GB Memory -- 25 GB SSD -- 2 TB Traffic Monthly -- (Base Server)</li></ul>
+<ul><li><span style="font-size: 0.875rem;">Dedicated IP and server resources </span></li><li>1 vCPU -- 1 GB Memory -- 25 GB SSD -- 2 TB Traffic Monthly -- (Base Server)</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
