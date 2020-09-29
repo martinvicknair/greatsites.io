@@ -25,11 +25,19 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2>Marketing</h2>
+<h2>Affiliate Marketing</h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator -->
-<hr class="wp-block-separator" id="webhosting"/>
+<hr class="wp-block-separator" id="socialcontent"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2 id="socialmedia">Social Media Updates</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
