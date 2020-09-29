@@ -26,22 +26,26 @@ post_date: 2020-08-17 18:33:27
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1547,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail"><a href="/portfolio"><img src="https://greatsites.io/wp-content/uploads/2020/09/cbdarvada.com_screenshot-150x150.png" alt="" class="wp-image-1547"/></a><figcaption>cbdarvada.com</figcaption></figure>
+<div class="wp-block-column"><!-- wp:image {"id":1590,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="/portfolio"><img src="https://greatsites.io/wp-content/uploads/2020/09/cbdarvada.com_screenshot.jpg" alt="" class="wp-image-1590"/></a><figcaption>cbdarvada.com</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":1576,"sizeSlug":"thumbnail"} -->
-<figure class="wp-block-image size-thumbnail"><a href="/portfolio"><img src="https://greatsites.io/wp-content/uploads/2020/09/luisfelipedelatorre.com_screenshot-150x150.png" alt="" class="wp-image-1576"/></a><figcaption>luisfelipedelatorre.com</figcaption></figure>
+<div class="wp-block-column"><!-- wp:image {"id":1591,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="/portfolio"><img src="https://greatsites.io/wp-content/uploads/2020/09/luisfelipedelatorre.com_screenshot.jpg" alt="" class="wp-image-1591"/></a><figcaption>luisfelipedelatorre.com</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"></div>
+<div class="wp-block-column"><!-- wp:image {"id":1592,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="/portfolio"><img src="https://greatsites.io/wp-content/uploads/2020/09/cbdlittleton.com_screenshot.jpg" alt="" class="wp-image-1592"/></a><figcaption>cbdlittleton.com</figcaption></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"></div>
+<div class="wp-block-column"><!-- wp:image {"id":1593,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="/portfolio"><img src="https://greatsites.io/wp-content/uploads/2020/09/summerfoodrocks.org_screenshot.jpg" alt="" class="wp-image-1593"/></a><figcaption>summerfoodrocks.org</figcaption></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
