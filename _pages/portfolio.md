@@ -25,7 +25,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Website for Mexican artist Luis Felipe de la Torre</strong>: </p>
+<p><strong>Portfolio for Mexican artist Luis Felipe de la Torre</strong>: </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -37,7 +37,7 @@ post_date: 2020-08-17 18:33:27
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>Sitefinder for the USDA Summer Food Service Program:</strong> </p>
+<p><strong>USDA Summer Food Service Program free meals site finder:</strong> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
