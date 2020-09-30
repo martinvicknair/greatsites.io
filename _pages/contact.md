@@ -1,6 +1,6 @@
 ---
 ID: 8
-post_title: Contact
+post_title: 'Contact &#8211; Support'
 author: martin
 post_excerpt: ""
 layout: page
