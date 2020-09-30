@@ -11,5 +11,5 @@ published: true
 post_date: 2016-02-12 07:54:41
 ---
 <!-- wp:paragraph -->
-<p><span class="has-inline-color has-white-color">GreatSites.io = Web Design + Marketing + VPS Hosting</span></p>
+<p>GreatSites.io = Web Design + Marketing + VPS Hosting</p>
 <!-- /wp:paragraph -->
