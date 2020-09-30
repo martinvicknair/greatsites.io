@@ -13,7 +13,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2>Web Design</h2>
+<h2>Web Design. </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -21,7 +21,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Specializing in WordPress</li><li>Domain name assistance and hosting available</li></ul>
+<ul><li>Specializing in WordPress </li><li>Domain name assistance and hosting available </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -29,7 +29,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2>Affiliate Marketing</h2>
+<h2>Affiliate Marketing. </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -41,15 +41,15 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 id="socialmedia">Social Media Updates</h2>
+<h2 id="socialmedia">Social Media Updates. </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Ongoing SEO and Marketing from $300</p>
+<p>Ongoing SEO and Marketing from $300 </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Website seasonal SEO marketing and content</li><li>Online promotions</li><li>Monthly social media campaigns</li></ul>
+<ul><li>Website seasonal SEO marketing and content </li><li>Online promotions </li><li>Monthly social media campaigns </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -57,11 +57,11 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2><span style="text-decoration: underline;">VPS Web Hosting from $25 monthl</span>y </h2>
+<h2><span style="text-decoration: underline;">VPS Web Hosting from $25 monthl</span>y. </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://greatsites.hostlaunchcdn.com/">Sign up <span style="text-decoration: underline;">here</span> for Managed VPS Hosting by GreatSites.io</a></p>
+<p><a href="https://greatsites.hostlaunchcdn.com/">Sign up <span style="text-decoration: underline;">here</span> for Managed VPS Hosting by GreatSites.io</a> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -73,7 +73,7 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><span style="font-size: 0.875rem;">Dedicated IP and server resources </span></li><li>1 vCPU -- 1 GB Memory -- 25 GB SSD -- 2 TB Traffic Monthly -- (Base Server)</li></ul>
+<ul><li><span style="font-size: 0.875rem;">Dedicated IP and server resources </span></li><li>1 vCPU -- 1 GB Memory -- 25 GB SSD -- 2 TB Traffic Monthly -- (Base Server) </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
@@ -101,11 +101,11 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Nginx</li><li>Apache + .htaccess</li><li>Multiple PHP Versions</li></ul>
+<ul><li>Nginx </li><li>Apache + .htaccess </li><li>Multiple PHP Versions </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
-<h3>Security</h3>
+<h3>Security </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -137,5 +137,5 @@ post_date: 2020-09-16 17:17:54
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Cloud hosting made easy with <a href="https://serverpilot.io/a/97d64f89192c" rel="sponsored nofollow">ServerPilot.io</a> Run your sites on a modern platform that grows with you. <a href="https://serverpilot.io/a/97d64f89192c" rel="sponsored nofollow">Get $10 in credits</a> for new accounts.</p>
+<p>Cloud hosting made easy with <a rel="sponsored nofollow" href="https://serverpilot.io/a/97d64f89192c">ServerPilot.io</a> Run your sites on a modern platform that grows with you. <a rel="sponsored nofollow" href="https://serverpilot.io/a/97d64f89192c">Get $10 in credits</a> for new accounts. </p>
 <!-- /wp:paragraph -->
