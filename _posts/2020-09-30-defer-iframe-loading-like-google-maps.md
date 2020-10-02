@@ -12,7 +12,7 @@ post_date: 2020-09-30 13:18:26
 <!-- wp:core-embed/wordpress {"url":"https://www.annacantrell.com/how-to/how-to-defer-loading-iframe-content/","type":"wp-embed","providerNameSlug":"anna-cantrell","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-anna-cantrell"><div class="wp-block-embed__wrapper">
 https://www.annacantrell.com/how-to/how-to-defer-loading-iframe-content/
-</div></figure>
+</div><figcaption>Because you know your boss is going to be mad about that Google Page Speed Insights score.</figcaption></figure>
 <!-- /wp:core-embed/wordpress -->
 
 <!-- wp:heading -->
