@@ -124,10 +124,6 @@ title="VPS Hosting" href="/services#webhosting">VPS Hosting</a></h4><div
 class="feature-item-content"><p>Each site is on its own server, with a dedicated IP and resources. No shared hosting. Free SSL and one-click WordPress installs. From $25 monthly.</p></div>
 <!-- /wp:html -->
 
-<!-- wp:paragraph -->
-<p>Each site is on its own server, with a dedicated IP and resources. No shared hosting. Free SSL and one-click WordPress installs. From $25 monthly.</p>
-<!-- /wp:paragraph -->
-
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
