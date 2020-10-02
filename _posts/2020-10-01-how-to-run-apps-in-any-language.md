@@ -121,7 +121,7 @@ class="fa-stack fa-5x"><i
 class="fa fa-circle fa-stack-2x icon-background-default"></i> <i
 class="feature-icon fa fa fa-laptop fa-stack-1x" style="color: white;"></i></span>                        </a></div><h4><a
 title="VPS Hosting" href="/services#webhosting">VPS Hosting</a></h4><div
-class="feature-item-content"><p>Each site is on its own server, with a dedicated IP and resources. No shared hosting. Free SSL and one-click WordPress installs. From $25 monthly.</p></div>
+class="feature-item-content"><p>Each site is on its own server, with a dedicated IP and resources. No shared hosting. Free SSL and one-click WordPress installs. From $25 monthly.</p></div></div>
 <!-- /wp:html -->
 
 <!-- wp:separator -->
@@ -129,5 +129,9 @@ class="feature-item-content"><p>Each site is on its own server, with a dedicated
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>Cloud hosting made easy with&nbsp;<a href="https://serverpilot.io/a/97d64f89192c">ServerPilot.io</a>&nbsp;Run your sites on a modern platform that grows with you.&nbsp;<a href="https://serverpilot.io/a/97d64f89192c">Get $10 in credits</a>&nbsp;for new accounts.</p>
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cloud hosting made easy with <a href="https://serverpilot.io/a/97d64f89192c">ServerPilot.io</a> Run your sites on a modern platform that grows with you. <a href="https://serverpilot.io/a/97d64f89192c">Get $10 in credits</a> for new accounts.</p>
 <!-- /wp:paragraph -->
