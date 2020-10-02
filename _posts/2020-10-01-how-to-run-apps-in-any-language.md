@@ -13,6 +13,10 @@ post_date: 2020-10-01 17:40:32
 <blockquote class="wp-block-quote"><p>How to Run Apps in Any Language</p><cite><a href="https://serverpilot.io/docs/how-to-run-apps-in-any-language/">https://serverpilot.io/docs/how-to-run-apps-in-any-language/</a></cite></blockquote>
 <!-- /wp:quote -->
 
+<!-- wp:paragraph {"style":{"color":{"background":"#f7eda4"}}} -->
+<p class="has-background" style="background-color:#f7eda4"><strong>Careful! We can only provide support for PHP apps.</strong><br><br>Unless you're absolutely sure about what you're doing, you should stop now!</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
 <p>Though not supported by ServerPilot, it is possible to run apps written in languages other than PHP on your server. These include</p>
 <!-- /wp:paragraph -->
