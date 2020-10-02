@@ -10,7 +10,7 @@ published: true
 post_date: 2020-10-01 17:40:32
 ---
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>How to Run Apps in Any Language</p><cite><a href="https://serverpilot.io/docs/how-to-run-apps-in-any-language/">https://serverpilot.io/docs/how-to-run-apps-in-any-language/</a></cite></blockquote>
+<blockquote class="wp-block-quote"><p>How to Run Apps in Any Language ← ServerPilot Docs</p><cite><a href="https://serverpilot.io/docs/how-to-run-apps-in-any-language/">https://serverpilot.io/docs/how-to-run-apps-in-any-language/</a></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph {"style":{"color":{"background":"#f7eda4"}}} -->
@@ -100,4 +100,24 @@ RewriteRule (.*) http://localhost:2368/$1 [P]</pre>
 
 <!-- wp:paragraph -->
 <p>Unlike PHP apps, most other apps do not start by default when your server is rebooted. You should follow the instructions provided by your non-PHP app to ensure that it starts by default when you reboot your server.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2>VPS Web Hosting from $25 monthly.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://greatsites.hostlaunchcdn.com/">Sign up here for Managed VPS Hosting by GreatSites.io</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>Cloud hosting made easy with <a href="https://serverpilot.io/a/97d64f89192c">ServerPilot.io</a> Run your sites on a modern platform that grows with you. <a href="https://serverpilot.io/a/97d64f89192c">Get $10 in credits</a> for new accounts.</p>
 <!-- /wp:paragraph -->
