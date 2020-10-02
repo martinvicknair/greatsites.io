@@ -114,10 +114,18 @@ RewriteRule (.*) http://localhost:2368/$1 [P]</pre>
 <p><a href="https://greatsites.hostlaunchcdn.com/">Sign up here for Managed VPS Hosting by GreatSites.io</a></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p>[icon name="laptop"]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Each site is on its own server, with a dedicated IP and resources. No shared hosting. Free SSL and one-click WordPress installs. From $25 monthly.</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>Cloud hosting made easy with <a href="https://serverpilot.io/a/97d64f89192c">ServerPilot.io</a> Run your sites on a modern platform that grows with you. <a href="https://serverpilot.io/a/97d64f89192c">Get $10 in credits</a> for new accounts.</p>
+<p>Cloud hosting made easy with&nbsp;<a href="https://serverpilot.io/a/97d64f89192c">ServerPilot.io</a>&nbsp;Run your sites on a modern platform that grows with you.&nbsp;<a href="https://serverpilot.io/a/97d64f89192c">Get $10 in credits</a>&nbsp;for new accounts.</p>
 <!-- /wp:paragraph -->
