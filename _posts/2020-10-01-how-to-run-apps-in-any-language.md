@@ -5,7 +5,7 @@ author: GreatSites
 post_excerpt: ""
 layout: post
 permalink: >
-  https://greatsites.io/posts/errata/how-to-run-apps-in-any-language/
+  https://greatsites.io/posts/web-development/how-to-run-apps-in-any-language/
 published: true
 post_date: 2020-10-01 17:40:32
 ---
