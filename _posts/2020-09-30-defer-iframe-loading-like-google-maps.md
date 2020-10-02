@@ -5,7 +5,7 @@ author: GreatSites
 post_excerpt: ""
 layout: post
 permalink: >
-  https://greatsites.io/posts/errata/defer-iframe-loading-like-google-maps/
+  https://greatsites.io/posts/web-development/defer-iframe-loading-like-google-maps/
 published: true
 post_date: 2020-09-30 13:18:26
 ---
