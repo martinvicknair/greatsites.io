@@ -1,6 +1,6 @@
 ---
 ID: 1735
-post_title: DOWNLOAD GOOGLE DRIVE FILES WITH WGET
+post_title: Download Google Drive Files with wget
 author: GreatSites
 post_excerpt: ""
 layout: post
