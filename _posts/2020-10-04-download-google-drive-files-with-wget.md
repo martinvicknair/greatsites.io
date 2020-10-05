@@ -5,7 +5,7 @@ author: GreatSites
 post_excerpt: ""
 layout: post
 permalink: >
-  https://greatsites.io/posts/errata/download-google-drive-files-with-wget/
+  https://greatsites.io/posts/web-development/download-google-drive-files-with-wget/
 published: true
 post_date: 2020-10-04 20:10:48
 ---
