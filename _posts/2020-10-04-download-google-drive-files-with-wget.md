@@ -10,15 +10,15 @@ published: true
 post_date: 2020-10-04 20:10:48
 ---
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>DOWNLOAD GOOGLE DRIVE FILES WITH WGET OR CURL</p><cite>https://www.matthuisman.nz/2019/01/download-google-drive-files-wget-curl.html</cite></blockquote>
+<blockquote class="wp-block-quote"><p>DOWNLOAD GOOGLE DRIVE FILES WITH WGET OR CURL </p><cite>https://www.matthuisman.nz/2019/01/download-google-drive-files-wget-curl.html </cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p><strong>Note: Make sure the file has been shared 'via link' as the script does not authenticate you.</strong></p>
+<p><strong>Note: Make sure the file has been shared 'via link' as the script does not authenticate you.</strong> </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading -->
-<h2>Small File&nbsp;(less than 100MB)</h2>
+<!-- wp:heading {"level":3} -->
+<h3>Small File&nbsp;(less than 100MB)</h3>
 <!-- /wp:heading -->
 
 <!-- wp:code -->
@@ -34,9 +34,9 @@ wget -O $filename 'https://docs.google.com/uc?export=download&amp;id='$fileid
 curl -L -o $filename 'https://docs.google.com/uc?export=download&amp;id='$fileid</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:paragraph -->
-<p>Large File (more than 100MB)</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3>Large File&nbsp;(more than 100MB)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>cd ~
