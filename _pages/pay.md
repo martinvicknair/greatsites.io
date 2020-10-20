@@ -4,7 +4,7 @@ post_title: payments
 author: GreatSites
 post_excerpt: ""
 layout: page
-permalink: https://greatsites.io/payments/
+permalink: https://greatsites.io/pay/
 published: true
 post_date: 2020-10-20 13:13:02
 ---
