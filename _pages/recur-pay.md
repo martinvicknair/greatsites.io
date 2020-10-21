@@ -9,5 +9,5 @@ published: true
 post_date: 2020-10-20 13:13:02
 ---
 <!-- wp:shortcode -->
-[[contact-form-7 id="1749" title="Recurring Payment"]
+[contact-form-7 id="1749" title="Recurring Payment"]
 <!-- /wp:shortcode -->
