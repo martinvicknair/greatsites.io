@@ -1,6 +1,6 @@
 ---
 ID: 1829
-post_title: One Pay
+post_title: One Time Payments
 author: GreatSites
 post_excerpt: ""
 layout: page
