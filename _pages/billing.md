@@ -9,11 +9,7 @@ published: true
 post_date: 2020-10-21 10:43:08
 ---
 <!-- wp:paragraph -->
-<p>Pay for your services here</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>MONTHLY RECURRING PLANS ARE AUTOMATICALLY </strong><br><strong>CHARGED MONTHLY UNTIL CANCELLED</strong> </p>
+<p><strong>THESE PLANS ARE AUTOMATICALLY CHARGED </strong><br><strong>MONTHLY TO THE CARD ON FILE UNTIL CANCELLED</strong> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -29,7 +25,7 @@ post_date: 2020-10-21 10:43:08
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>SINGLE SERVICE FEES </p>
+<p><strong>SINGLE SERVICE FEES - ONE TIME PAYMENTS</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
