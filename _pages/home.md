@@ -3,8 +3,8 @@ ID: 4
 post_title: GreatSites.io
 author: FameThemes
 post_excerpt: >
-  GreatSites.io = Web Design + Marketing +
-  VPS Hosting
+  Great Sites start here! GreatSites.io =
+  Web Design + Marketing + VPS Hosting
 layout: page
 permalink: https://greatsites.io/
 published: true
