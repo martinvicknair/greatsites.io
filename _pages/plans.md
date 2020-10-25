@@ -1,10 +1,14 @@
 ---
 ID: 1831
-post_title: Billing
+post_title: Plans
 author: GreatSites
-post_excerpt: ""
+post_excerpt: >
+  See our current fees for monthly plans
+  and other services. Setup and pay for
+  services. Modify or cancel your monthly
+  plans.
 layout: page
-permalink: https://greatsites.io/billing/
+permalink: https://greatsites.io/plans/
 published: true
 post_date: 2020-10-21 10:43:08
 ---
