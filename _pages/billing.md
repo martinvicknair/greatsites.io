@@ -40,6 +40,10 @@ post_date: 2020-10-21 10:43:08
 <p class="has-white-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong><a href="https://greatsites.io/billing/one-pay/" data-type="page" data-id="1829">CLICK HERE TO MAKE A ONE TIME PAYMENT</a></strong></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
 <!-- wp:paragraph -->
-<p><a href="https://greatsites.io/plans/terms-cancel/">Terms &amp; Conditions - Cancel Your Current Plan</a></p>
+<p><a href="https://greatsites.io/plans/terms-cancel/">TERMS AND CONDITIONS - PLAN CANCELLATIONS</a></p>
 <!-- /wp:paragraph -->
