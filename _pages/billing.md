@@ -1,6 +1,6 @@
 ---
 ID: 1831
-post_title: Plans
+post_title: Billing
 author: GreatSites
 post_excerpt: >
   See our current fees for web
@@ -8,7 +8,7 @@ post_excerpt: >
   services. Setup and pay for services.
   Modify your current monthly plan.
 layout: page
-permalink: https://greatsites.io/plans/
+permalink: https://greatsites.io/billing/
 published: true
 post_date: 2020-10-21 10:43:08
 ---
