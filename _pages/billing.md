@@ -33,7 +33,7 @@ post_date: 2020-10-21 10:43:08
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>MONTHLY SIMPLE WEB HOSTING - $10 PER MONTH </li><li>MONTHLY MAP LANDING PAGE LISTING - $50 PER MONTH</li><li>MONTHLY MARKETING SINGLE LOCATION - $225 PER MONTH</li><li>MONTHLY MARKETING MUTLTIPLE LOCATIONS - $325 PER MONTH</li></ul>
+<ul><li>MONTHLY SHARED WEB HOSTING - $10 PER MONTH </li><li>MONTHLY MAP LANDING PAGE LISTING - $50 PER MONTH</li><li>MONTHLY MARKETING SINGLE LOCATION - $225 PER MONTH</li><li>MONTHLY MARKETING MUTLTIPLE LOCATIONS - $325 PER MONTH</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph {"backgroundColor":"vivid-cyan-blue","textColor":"white"} -->
