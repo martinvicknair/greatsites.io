@@ -29,7 +29,7 @@ post_date: 2020-10-21 10:43:08
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>THESE PLANS ARE AUTOMATICALLY CHARGED </strong><br><strong>MONTHLY TO THE CARD ON FILE UNTIL CANCELLED</strong> </p>
+<p><strong>RECURRING PLANS ARE AUTOMATICALLY CHARGED </strong><br><strong>MONTHLY TO THE CARD ON FILE UNTIL CANCELLED</strong> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
