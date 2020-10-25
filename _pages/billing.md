@@ -21,7 +21,7 @@ post_date: 2020-10-21 10:43:08
 <!-- /wp:list -->
 
 <!-- wp:paragraph {"backgroundColor":"vivid-cyan-blue","textColor":"white"} -->
-<p class="has-white-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong><a href="https://greatsites.io/billing/one-pay/" data-type="page" data-id="1829">CLICK HERE TO MAKE A ONE TIME PAYMENT</a></strong></p>
+<p class="has-white-color has-vivid-cyan-blue-background-color has-text-color has-background"><strong><a href="https://greatsites.io/billing/one-pay/">CLICK HERE TO MAKE A ONE TIME PAYMENT</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -37,7 +37,7 @@ post_date: 2020-10-21 10:43:08
 <!-- /wp:list -->
 
 <!-- wp:paragraph {"backgroundColor":"vivid-cyan-blue","textColor":"white"} -->
-<p class="has-white-color has-vivid-cyan-blue-background-color has-text-color has-background"><a href="https://greatsites.io/billing/recur-pay/" data-type="page" data-id="1750"><strong>CLICK HERE TO START YOUR MONTHLY PLAN</strong> </a></p>
+<p class="has-white-color has-vivid-cyan-blue-background-color has-text-color has-background"><a type="page" id="1750" href="https://greatsites.io/billing/recur-pay/"><strong>CLICK HERE TO START </strong></a><a href="https://greatsites.io/billing/recur-pay/" type="page" id="1750"><strong>A</strong></a><a href="https://greatsites.io/billing/recur-pay/"><strong> MONTHLY PLAN</strong> </a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
