@@ -3,10 +3,10 @@ ID: 1831
 post_title: Plans
 author: GreatSites
 post_excerpt: >
-  See our current fees for monthly plans
-  and other services. Setup and pay for
-  services. Modify your current monthly
-  plan.
+  See our current fees for web
+  development, monthly plans, and other
+  services. Setup and pay for services.
+  Modify your current monthly plan.
 layout: page
 permalink: https://greatsites.io/plans/
 published: true
