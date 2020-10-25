@@ -6,7 +6,7 @@ post_excerpt: >
   See our current fees for monthly plans
   and other services. Setup and pay for
   services. Modify your current monthly
-  plans.
+  plan.
 layout: page
 permalink: https://greatsites.io/plans/
 published: true
