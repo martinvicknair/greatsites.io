@@ -5,7 +5,7 @@ author: GreatSites
 post_excerpt: >
   See our current fees for monthly plans
   and other services. Setup and pay for
-  services. Modify or cancel your monthly
+  services. Modify your current monthly
   plans.
 layout: page
 permalink: https://greatsites.io/plans/
