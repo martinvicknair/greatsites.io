@@ -13,5 +13,5 @@ post_date: 2020-09-03 16:04:22
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[simple-sitemap exclude='1829' show_excerpt='true']
+[simple-sitemap exclude='1829,1750' show_excerpt='true']
 <!-- /wp:shortcode -->
