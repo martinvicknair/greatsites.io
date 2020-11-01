@@ -1,6 +1,6 @@
 ---
 ID: 1831
-post_title: Billing
+post_title: Plans
 author: GreatSites
 post_excerpt: >
   See our current fees for web
