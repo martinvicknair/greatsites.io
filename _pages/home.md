@@ -1,6 +1,6 @@
 ---
 ID: 4
-post_title: GreatSites.io
+post_title: Home
 author: FameThemes
 post_excerpt: >
   GreatSites.io = Web Design + Marketing +
