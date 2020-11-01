@@ -45,5 +45,5 @@ post_date: 2020-10-21 10:43:08
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><a href="https://greatsites.io/plans/terms-cancel/">TERMS AND CONDITIONS - PLAN CANCELLATIONS</a></p>
+<p><a href="https://greatsites.io/contact/">TERMS AND CONDITIONS - PLAN CANCELLATIONS</a></p>
 <!-- /wp:paragraph -->
